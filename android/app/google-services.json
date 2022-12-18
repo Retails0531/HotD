@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "1028443131927",
+    "firebase_url": "https://mobileswproject-a991b-default-rtdb.firebaseio.com",
+    "project_id": "mobileswproject-a991b",
+    "storage_bucket": "mobileswproject-a991b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028443131927:android:fcfe00ddcef8d98ad04c52",
+        "android_client_info": {
+          "package_name": "hotd.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028443131927-0s5qtu3rpllbt5ccn6ecejv8gjnca0e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hotd.main",
+            "certificate_hash": "72be5946e4452f2f96867ea92e4641c966b0d18a"
+          }
+        },
+        {
+          "client_id": "1028443131927-1rbmv1ph9cn3gidgp1uu516jrbs3bunc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hotd.main",
+            "certificate_hash": "40f7a497060d2860149699af85e5bbf7bb54031f"
+          }
+        },
+        {
+          "client_id": "1028443131927-49v6bjng5grrugph5q8oj2jjek6bi9f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hotd.main",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1028443131927-qquq3hckokoaas70so42keieftdtjs3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hotd.main",
+            "certificate_hash": "fdbce825b151638a2144cf954c356b19da0ea043"
+          }
+        },
+        {
+          "client_id": "1028443131927-m9nea74fcopjfnm8v44ct50r2sfns4v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEKdzSDIIk1QVcN-_5cy2IuMu1ezexM4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028443131927-m9nea74fcopjfnm8v44ct50r2sfns4v0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1028443131927-r3hgbgh2c359uvihu62qt4u3gugglf3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hotd.main"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
